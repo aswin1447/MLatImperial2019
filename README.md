@@ -6,7 +6,7 @@ Short link to this page: https://goo.gl/8S5hn4
  -  [Artem Maevskiy](mailto:artem.maevskiy@cern.ch)
  -  [Sergey Shirobokov](mailto:s.shirobokov17@imperial.ac.uk)
 
-Please address any course-related feedback and questions to mlaticl2019@yandex.ru.
+Please address any course-related feedback and questions to mlaticl2019@yandex.ru. Also, feel free to join our [chat](https://gitter.im/MLatImperial2019/community)!
 
 ## Prerequisites
  *   [Introduction to Python](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/00_prerequisites/00_python.ipynb)
