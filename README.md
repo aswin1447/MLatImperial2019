@@ -1,5 +1,7 @@
 # Welcome to the course!
 
+Short link to this page: https://goo.gl/8S5hn4
+
 ## Practical session instructors:
  -  [Artem Maevskiy](mailto:artem.maevskiy@cern.ch)
  -  [Sergey Shirobokov](mailto:s.shirobokov17@imperial.ac.uk)
