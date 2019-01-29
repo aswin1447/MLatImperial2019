@@ -17,6 +17,11 @@ Please address any course-related feedback and questions to mlaticl2019@yandex.r
      - [Titanic notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/01_lab/titanic.ipynb)
 
  *  Data preprocessing, KNN. Linear regression and classification. (Tue, Jan 29)
+     - [KNN notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/02_lab/Data_preprocessing_and_knn_seminar.ipynb)
+
+     - [Regression notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/02_lab/lab2_regression_seminar.ipynb)
+
+     - [Classification notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/02_lab/lab2_classification_seminar.ipynb)
 
  *  SVM. 1st competition release. (Thu, Jan 31)
 
