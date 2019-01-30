@@ -14,7 +14,7 @@ Please address any course-related feedback and questions to mlaticl2019@yandex.r
 ## Program
 
  *   Introduction to python, numpy, pandas and sklearn (Mon, Jan 28)
-     - [Titanic notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/01_lab/titanic.ipynb)
+     - [Titanic notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/01_lab/titanic.ipynb) ([solution](https://github.com/yandexdataschool/MLatImperial2019/blob/master/01_lab/titanic_solution.ipynb))
 
  *  Data preprocessing, KNN. Linear regression and classification. (Tue, Jan 29)
      - [KNN notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/02_lab/Data_preprocessing_and_knn_seminar.ipynb)
