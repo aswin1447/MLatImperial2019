@@ -24,6 +24,13 @@ Please address any course-related feedback and questions to mlaticl2019@yandex.r
      - [Classification notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/02_lab/lab2_classification_seminar.ipynb)
 
  *  SVM. 1st competition release. (Thu, Jan 31)
+      - [SVM notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/03_lab/SVM_seminar.ipynb)
+
+      - [PCA-SVD notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/03_lab/PCA-SVD.ipynb)
+      
+      - [Setup kaggle](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/03_lab/Setting_up_kaggle.ipynb)      
+      
+      - [Kaggle baseline](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/03_lab/baseline_kaggle_1.ipynb)            
 
  *  Trees, ensembles, boosting (Fri, Feb 1)
 
