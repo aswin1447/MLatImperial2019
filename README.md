@@ -33,6 +33,7 @@ Please address any course-related feedback and questions to mlaticl2019@yandex.r
       - [Kaggle baseline](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/03_lab/baseline_kaggle_1.ipynb)            
 
  *  Trees, ensembles, boosting (Fri, Feb 1)
+      - [Trees & Ensembles notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/04_lab/trees_ensambling.ipynb)
 
  *  Introduction to PyTorch. Computer vision + pretrained models. (Mon, Feb 4)
 
