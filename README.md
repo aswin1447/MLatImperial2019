@@ -38,11 +38,13 @@ Please address any course-related feedback and questions to mlaticl2019@yandex.r
  *  Introduction to PyTorch. Computer vision. (Mon, Feb 4)
       - [PyTorch notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/05_lab/pytorch.ipynb)
 
- *  Generative adversarial networks. Style transfer. (Tue, Feb 5)
+ *  Generative adversarial networks. 2nd competition release (Tue, Feb 5)
+ 
+       - [Kaggle baseline](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/06_lab/baseline_kaggle_2.ipynb)            
 
- *  2nd competition release (Thu, Feb 7)
-
- *  Recurrent neural networks (Fri, Feb 8)
+ *  Computer vision part 2. Style transfer. (Thu, Feb 7)
+ 
+ *  Recurrent neural networks. (Fri, Feb 8)
 
  *  Feedback on the competitions (Mon, Feb 11)
 
