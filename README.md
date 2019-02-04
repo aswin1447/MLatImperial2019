@@ -35,7 +35,8 @@ Please address any course-related feedback and questions to mlaticl2019@yandex.r
  *  Trees, ensembles, boosting (Fri, Feb 1)
       - [Trees & Ensembles notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/04_lab/trees_ensambling.ipynb)
 
- *  Introduction to PyTorch. Computer vision + pretrained models. (Mon, Feb 4)
+ *  Introduction to PyTorch. Computer vision. (Mon, Feb 4)
+      - [PyTorch notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/05_lab/pytorch.ipynb)
 
  *  Generative adversarial networks. Style transfer. (Tue, Feb 5)
 
