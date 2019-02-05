@@ -40,7 +40,8 @@ Please address any course-related feedback and questions to mlaticl2019@yandex.r
 
  *  Generative adversarial networks. 2nd competition release (Tue, Feb 5)
  
-       - [Kaggle baseline](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/06_lab/baseline_kaggle_2.ipynb)            
+       - [Kaggle baseline](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/06_lab/baseline_kaggle_2.ipynb)   
+       - [GANs notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/06_lab/GANs.ipynb)
 
  *  Computer vision part 2. Style transfer. (Thu, Feb 7)
  
