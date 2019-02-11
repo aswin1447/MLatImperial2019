@@ -49,13 +49,17 @@ Please address any course-related feedback and questions to mlaticl2019@yandex.r
  *  Computer vision part 2. Style transfer. (Thu, Feb 7) 
         
        - [Finetuning notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/07_lab/finetuning_seminar.ipynb)        
-        
-       - [Styletransfer notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/07_lab/styletransfer_seminar.ipynb)
  
  
- *  Recurrent neural networks. (Fri, Feb 8)
+ *  Style transfer. Lectures (Fri, Feb 8)
+ 
 
- *  Feedback on the competitions (Mon, Feb 11)
+       - [Styletransfer notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/07_lab/styletransfer_seminar.ipynb)
+
+ *  Recurrent neural networks.Feedback on the competitions (Mon, Feb 11)
+ 
+       - [RNN notebook](https://colab.research.google.com/github/yandexdataschool/MLatImperial2019/blob/master/08_lab/rnn_seminar.ipynb)
+
 
 ## Grading
 
